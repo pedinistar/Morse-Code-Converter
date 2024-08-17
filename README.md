@@ -1,6 +1,6 @@
 # Morse Code Converter
 
-Welcome to the **Morse Code Converter**! 😊 This is a fun and interactive command-line tool that takes any string input and converts it into Morse code. The project is written in Python and includes some cute ASCII art and emojis to make the experience more enjoyable.
+Welcome to the **Morse Code Converter**! 😊 This project is a fun and interactive tool that transforms any string input into Morse code, making it easy to understand and use. Inspired by the concept of Morse code from the movie Interstellar, I embarked on this project to gain a deeper understanding of what it is and how it works. I was pleasantly surprised by how simple yet powerful it is, and I truly enjoyed creating this project.
 
 ## Features
 
