@@ -18,13 +18,13 @@ Welcome to the **Morse Code Converter**! 😊 This is a fun and interactive comm
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/morse-code-converter.git
+   git clone https://github.com/pedinistar/Morse-Code-Converter.git
    cd morse-code-converter
    ```
 
 2. **Run the Program**:
    ```bash
-   python morse_converter.py
+   python main.py
    ```
 
 3. **Follow the Prompts**:
